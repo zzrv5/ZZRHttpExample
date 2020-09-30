@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout xmlns:ohos="http://schemas.huawei.com/res/ohos"
+                   ohos:width="match_parent"
+                   ohos:height="match_parent"
+                   ohos:orientation="vertical">
+    <Text ohos:id="$+id:text" ohos:text_size="30vp" ohos:text="Get请求测试" ohos:width="match_parent" ohos:height="match_parent" ohos:text_alignment="center"></Text>
+
+</DirectionalLayout>
